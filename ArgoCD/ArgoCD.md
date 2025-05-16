@@ -22,5 +22,10 @@ O ArgoCD possuí um sistema em caso de falha no cluster inteiro, por exemplo, se
 
 Existem várias alternativas para gerenciar multiplos clusters, mas das duas que conheço.:
 
-* 
+* Criar uma branch para cada ambiente.
+* Criar overlays no Kustomize, que é uma ferramenta nativa do Kubernetes. Similar ao funcionamento do Helm, mas mais simples e integrado nativamente ao Kubernetes.
 
+## Próximos passos
+
+- [Architectural Overview](Architectural%20Overview.md)
+- 
