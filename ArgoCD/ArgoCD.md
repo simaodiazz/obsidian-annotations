@@ -28,4 +28,5 @@ Existem várias alternativas para gerenciar multiplos clusters, mas das duas que
 ## Próximos passos
 
 - [Architectural Overview](Architectural%20Overview.md)
-- 
+- [Core](Core.md)
+- [Declarative Configurations](./Declarative%20Configurations.md)

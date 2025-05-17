@@ -14,7 +14,14 @@ Um exemplo mais básico, é que o gRPC é utilizado por exemplo no **CLI** enqua
 
 O ArgoCD possuí plugins internos para a renderização dos manifestos, já que como disse anteriormente, eles podem ser manifestos criados a partir do **Helm** ou do **Kustomize** ou até mesmo **Plain Yaml**, esses plugins chamam-se **Template Render Plugins**.
 
-- Continuar a partir de (http://argo-cd.readthedocs.io/en/stable/operator-manual/architecture/)
+## Application Server
+
+É um servidor responsável por garantir o **Live State** que é o estado atual do cluster em sincronia com o estado esperado chamado **Target State**
+
+Este servidor é responsável por fazer **Watching** constante as aplicações e aos seus recursos associados para atualizações nos manifestos. Além disso, existe um **Diff Engine** que é responsável por comparar o Live State e o Target State e por fim os **Lifesycle Hooks** que são gatilhos que podemos utilizar para expandir o comportamento base de **Sync**, **OutOfSync**, **PostSync** etc.
+
+
+
 
 
 
