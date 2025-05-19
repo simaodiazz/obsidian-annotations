@@ -3,3 +3,18 @@ O **FluxCD** é uma ferramenta parecida ao **ArgoCD**, só que é mais usada em 
 Em uma observação geral, o FluxCD possuí menos **Footprint** e **Overhead** de execução, eu pelo menos, prefiro o FluxCD juntamente com outras ferramentas que o usam para visualização gráfica, é mais eficiente do que possuir um **API Server** com **UI integrada**.
 
 Uma boa observação do **FluxCD** é que ele é que a configuração de novos utilizadores é extremamente simples, posso utilizar os próprios **ServiceAccount** do Kubernetes para criar novos utilizadores, isso facilita tudo, além, de padronizar a forma como os utilizadores são criados.
+
+Permite também **Multitenancy** que é a capacidade de criar equipas ou grupos de utilizadores que possam gerenciar de forma isolada os recursos associados a eles.
+
+O ArgoCD é mais imperativo em relação ao FluxCD, ele tenta ser mais declarativo, ou seja, ele tenta evitar receber ordens diretas e sim apenas executar aquelas que já foram configuradas de forma declarativa.
+
+Na minha observação geral, o ArgoCD é uma ferramenta boa para iniciantes e gestão em uma empresa pequena a média escala, o FluxCD é mais específico para este proposito de automatização.
+
+# Próximos Passos
+
+* [Simple Commands](Simple%20Commands.md)
+* [Ways to structure your repositories](Ways%20to%20structure%20your%20repositories)
+* [Manage Helm Releases](Manage%20Helm%20Releases)
+
+
+
