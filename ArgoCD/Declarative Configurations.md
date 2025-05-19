@@ -30,9 +30,8 @@ spec:
 	# Permite a observação de alterações para deploy em todos os repositórios
 	sourceRepos:
 	- '*'
-	# Restringe o deploy das aplicações todas apenas a este namespace ou outros
 	destinations:
-		- namespace: 'guestbook'
+		- namespace: 'dev'
 		  server: 'https://kubernetes.default.svc'
 	# É possível também restringir criação de recursos
 	clusterResourceWhitelist: ...

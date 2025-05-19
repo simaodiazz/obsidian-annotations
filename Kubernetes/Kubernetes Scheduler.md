@@ -1,0 +1,1 @@
+Este componente é responsável por decidir em qual **Worker Node** um pod irá ser executado.
