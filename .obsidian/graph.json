@@ -2,9 +2,9 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
-  "hideUnresolved": true,
-  "showOrphans": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -34,9 +34,16 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "path:Harbor ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -46,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3003387451171875,
+  "scale": 0.200225830078125,
   "close": true
 }

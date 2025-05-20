@@ -15,6 +15,10 @@ Na minha observação geral, o ArgoCD é uma ferramenta boa para iniciantes e ge
 * [Simple Commands](Simple%20Commands.md)
 * [Ways to structure your repositories](Ways%20to%20structure%20your%20repositories)
 * [Manage Helm Releases](Manage%20Helm%20Releases)
+* [Setup Webhook Receivers](Setup%20Webhook%20Receivers)
+* [Manage K8s secrets with SOPS](Manage%20K8s%20secrets%20with%20SOPS.md)
+* 
+
 
 
 

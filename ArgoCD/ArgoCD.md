@@ -28,5 +28,5 @@ Existem várias alternativas para gerenciar multiplos clusters, mas das duas que
 ## Próximos passos
 
 - [Architectural Overview](ArgoCD/Architectural%20Overview.md)
-- [Core](Core.md)
+- [How works](How%20works.md)
 - [Declarative Configurations](./Declarative%20Configurations.md)

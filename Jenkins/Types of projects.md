@@ -12,3 +12,4 @@ Existem várias formas de criar projetos.
 * **Freestyle** são projetos simples, são comandos Shell ou Bash. Apenas para configuração de fluxos simples.
   
 * **Pipelines**, são arquivos Groovy que são separadas em diversos etapas para execução.
+
