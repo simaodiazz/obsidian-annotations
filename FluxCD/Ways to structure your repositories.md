@@ -18,7 +18,7 @@ Umas estruturas oferecem mais flexíbilidade, geralmente essas estruturas usam *
     └── staging
 ```
 
-Esta é uma estrutura para projetos bastante modestos, a pasta de aplicações é onde ficam as nossas aplicações, como servidores próprios. Na pasta de infrastrutura ficam aplicações que utilizamos geralmente para **GitOps** ou **GitSecOps** (versão atualizada do GitOps mas com segurança aprimorada) e na pasta clusters ficam diretamente os arquivos que ajudam o FluxCD a fazer o Diff do estado com o atual, é onde normalmente ficam os manifestos que referênciam os nossos repositórios.
+Esta é uma estrutura para projetos bastante modestos, a pasta de aplicações é onde ficam as nossas aplicações, como servidores próprios. Na pasta de infrastrutura ficam aplicações que utilizamos geralmente para **GitOps** ou **GitSecOps** (versão atualizada do GitOps mas com seguran aprimorada) e na pasta clusters ficam diretamente os arquivos que ajudam o FluxCD a fazer o Diçaff do estado com o atual, é onde normalmente ficam os manifestos que referênciam os nossos repositórios.
 
 ## TBD
 

@@ -1,0 +1,3 @@
+A principal diferença entre estas duas ferramentas é, uma pode ser integrada como parte do sistema e pode ser totalmente **declarativa**, ou seja, nos declaramos em manifestos o que queremos que ela faça enquanto o **SOPS** acaba por ser bastante imperativa, a menos que sejam criados scripts para facilitar bastante esse trabalho. 
+
+o **Sealed Secrets** é mais seguro e torna-se mais compartilhável em ambientes corporativos, o **SOPS** também consegue entregar essa funcionalidade mais é mais díficil, e como a criptografia no **SOPS** é **sincrona**, acaba por ser também mais inseguro, já que a criptografia síncrona é conhecida por todos e pode ser fácilmente aplicada um **Bruteforce**.

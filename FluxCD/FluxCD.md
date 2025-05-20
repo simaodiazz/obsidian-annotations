@@ -17,7 +17,11 @@ Na minha observação geral, o ArgoCD é uma ferramenta boa para iniciantes e ge
 * [Manage Helm Releases](Manage%20Helm%20Releases)
 * [Setup Webhook Receivers](Setup%20Webhook%20Receivers)
 * [Manage K8s secrets with SOPS](Manage%20K8s%20secrets%20with%20SOPS.md)
-* 
+* [Install SOPS](Install%20SOPS.md)
+* [Sealed Secrets](Sealed%20Secrets)
+* [Difference beetwen use SOPS and Sealed Secrets](Difference%20beetwen%20use%20SOPS%20and%20Sealed%20Secrets)
+* [Automate image updates to Git](Automate%20image%20updates%20to%20Git)
+
 
 
 

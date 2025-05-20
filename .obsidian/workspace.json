@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e7bbbb1e4a1a8eda",
+        "id": "3ce7b404aad7f786",
         "type": "tabs",
         "children": [
           {
-            "id": "c10fe3e9aafdd3a2",
+            "id": "70b136fea68ab5b4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "FluxCD/Automate image updates to Git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Automate image updates to Git"
             }
           }
         ]
@@ -109,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FluxCD/Automate image updates to Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Automate image updates to Git"
             }
           },
           {
@@ -137,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "FluxCD/Automate image updates to Git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Automate image updates to Git"
             }
           },
           {
@@ -185,44 +191,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c10fe3e9aafdd3a2",
+  "active": "70b136fea68ab5b4",
   "lastOpenFiles": [
-    "FluxCD/Setup Webhook Receivers.md",
-    "Harbor/Integration with Flux.md",
+    "FluxCD/Automate image updates to Git.md",
     "FluxCD/FluxCD.md",
-    "Harbor/Harbor.md",
+    "FluxCD/Difference beetwen use SOPS and Sealed Secrets.md",
+    "FluxCD/Manage Helm Releases.md",
     "FluxCD/Manage K8s secrets with SOPS.md",
-    "FluxCD/Ways to structure your repositories.md",
+    "FluxCD/Sealed Secrets.md",
+    "FluxCD/Setup Webhook Receivers.md",
     "FluxCD/Simple Commands.md",
+    "FluxCD/Ways to structure your repositories.md",
+    "FluxCD/Untitled",
+    "FluxCD/Install SOPS.md",
+    "Jenkins/Jenkins.md",
+    "Jenkins/Types of projects.md",
+    "Kubernetes/Resources/Cluster Role.md",
+    "Kubernetes/Resources/Kubernetes Resources.md",
+    "Kubernetes/Resources/Persistent Volume.md",
+    "Kubernetes/Resources/Service.md",
+    "Kubernetes/Resources/Storage Class.md",
+    "Kubernetes/Kubernetes.md",
+    "AUTHORS.md",
+    "CONTRIBUTING.md",
     "README.md",
+    "Harbor/Integration with Flux.md",
+    "Harbor/Harbor.md",
     "ArgoCD/References.md",
     "Harbor",
-    "FluxCD/Manage Helm Releases.md",
-    "CONTRIBUTING.md",
-    "AUTHORS.md",
     "ArgoCD/Architectural Overview.md",
     "Untitled.canvas",
     "ArgoCD/ArgoCD.md",
-    "ArgoCD/Declarative Configurations.md",
-    "ArgoCD/How works.md",
-    "Jenkins/Jenkins.md",
-    "Jenkins/Types of projects.md",
     "Recording 20250519225218.m4a",
-    "Kubernetes/Kubernetes Scheduler.md",
-    "Kubernetes/Kubernetes Control Pannel.md",
-    "Kubernetes/Kubernetes.md",
-    "Kubernetes/Resources/Storage Class.md",
-    "Kubernetes/Resources/Service.md",
-    "Kubernetes/Resources/Persistent Volume.md",
-    "Kubernetes/Resources/Kubernetes Resources.md",
-    "Kubernetes/Resources/Cluster Role.md",
     "Kubernetes/Untitled",
     "FluxCD",
     "Go/Gin",
     "Go",
     "Jenkins",
     "Kubernetes/Resources",
-    "Kubernetes",
-    "Excalidraw"
+    "Kubernetes"
   ]
 }
