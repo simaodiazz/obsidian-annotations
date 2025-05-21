@@ -2,29 +2,6 @@ São uma opção alternativa ao **SOPS** mas para armazenamento no **Git**, tamb
 
 É criado um novo componente no **FluxCD** responsável por criar produzir um **RSA**, ou seja, é criptografia assimétrica, onde é criada uma chave privada e outra pública. 
 
-É necessário instalar uma aplicação **CLI** chamada **kubesealed** em caso que precisemos de faze-lo de forma imperativa e no o próprio **sealed-controller** que é o componente criado pelo FluxCD utiliza.
+Para fazer o setup do sealed secrets, é necessário primeiro instalar a ferramenta CLI que pode ser encontrada na página do github do **sealed-secrets**.
 
-Geralmente, é necessário criar um repositório que irá conter todas as credênciais da nossa aplicação.
-
-```yaml
-apiVersion: 'helm.toolkit.fluxcd.io/v2'
-kind: 'HelmRelease'
-metadata:
-	name: 'sealed-secrets-git-repository'
-	namespace: 'flux-system'
-spec:
-	chart:
-		spec:
-			chart: 'sealed-secrets-chart'
-			sourceRef:
-				kind: 'HelmRepository'
-				name: 'sealed-secrets'
-			version: '>=0.1.0'
-		interval: '1h0m0s'
-		releaseName: 'sealed-secrets-release'
-		targetNamespace: 'flux-system'
-		install:
-			crds: 'Create'
-		upgrade:
-			crds: 'CreateReplace'			
-```
+De seguida, precisamos de instalar um controlador dentro do **kube-system** ou de outro namespace, apesar de não ser necessário criar outro namespace. Para conter a nossa chave privada que vai ser responsável por descriptografar o nosso **Base64**
