@@ -15,14 +15,14 @@
       }
     },
     {
-      "query": "path:ArgoCD  ",
+      "query": "path:Argo",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:FluxCD  ",
+      "query": "path:Flux",
       "color": {
         "a": 1,
         "rgb": 11657298
@@ -61,5 +61,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.200225830078125,
-  "close": true
+  "close": false
 }
