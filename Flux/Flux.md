@@ -12,15 +12,15 @@ Na minha observação geral, o ArgoCD é uma ferramenta boa para iniciantes e ge
 
 # Próximos Passos
 
-* [Simple Commands](Simple%20Commands.md)
-* [Ways to structure your repositories](Ways%20to%20structure%20your%20repositories)
-* [Manage Helm Releases](Manage%20Helm%20Releases)
-* [Setup Webhook Receivers](Setup%20Webhook%20Receivers)
-* [Manage K8s secrets with SOPS](Manage%20K8s%20secrets%20with%20SOPS.md)
+* [Flux Simple Commands](Flux%20Simple%20Commands.md)
+* [Flux Ways to structure your repositories](Flux%20Ways%20to%20structure%20your%20repositories.md)
+* [Flux Manage Helm Releases](Flux%20Manage%20Helm%20Releases.md)
+* [Flux Setup Webhook Receivers](Flux%20Setup%20Webhook%20Receivers.md)
+* [Flux Manage K8s secrets with SOPS](Flux%20Manage%20K8s%20secrets%20with%20SOPS.md)
 * [Install SOPS](Install%20SOPS.md)
-* [Sealed Secrets](Sealed%20Secrets)
-* [Difference beetwen use SOPS and Sealed Secrets](Difference%20beetwen%20use%20SOPS%20and%20Sealed%20Secrets)
-* [Automate image updates to Git](Automate%20image%20updates%20to%20Git)
+* [Flux Sealed Secrets Controller](Flux%20Sealed%20Secrets%20Controller.md)
+* [Flux Difference beetwen use SOPS and Sealed Secrets](Flux%20Difference%20beetwen%20use%20SOPS%20and%20Sealed%20Secrets.md)
+* [Flux Automate image updates to Git](Flux%20Automate%20image%20updates%20to%20Git.md)
 
 
 
