@@ -138,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Helm Publishing Helm Charts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Helm Publishing Helm Charts"
             }
           },
           {
@@ -195,8 +196,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70b136fea68ab5b4",
+  "active": "5fc74bedfe3c8baf",
   "lastOpenFiles": [
+    "Helm Publishing Helm Charts.md",
     "Sonatype/Nexus/Sonatype Nexus Repository.md",
     "Sonatype/Nexus/Nexus Installation with Helm.md",
     "Sonatype/Nexus/Nexus Fetch Admin Credentials in K8s.md",
@@ -223,7 +225,6 @@
     "Argo/Argo Declarative Configurations.md",
     "ArgoCD/References.md",
     "Argo/Argo Minimal Infra.md",
-    "Harbor/Harbor is Deprecated Tool.md",
     "Sonatype/Nexus",
     "Sonatype",
     "Nginx",
