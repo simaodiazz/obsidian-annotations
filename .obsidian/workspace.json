@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sonatype/Nexus/Nexus Publishing Helm Charts.md",
+                "file": "Sonatype/Nexus/Sonatype Nexus Repository.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nexus Publishing Helm Charts"
+              "title": "Sonatype Nexus Repository"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sonatype/Nexus/Nexus Publishing Helm Charts.md",
+                "file": "Sonatype/Nexus/Sonatype Nexus Repository.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nexus Publishing Helm Charts"
+              "title": "Outline of Sonatype Nexus Repository"
             }
           },
           {
@@ -202,15 +202,15 @@
   },
   "active": "70b136fea68ab5b4",
   "lastOpenFiles": [
-    "Sonatype/Nexus/Nexus Fetch Admin Credentials in K8s.md",
-    "Sonatype/Nexus/Nexus Publishing Helm Charts.md",
     "Sonatype/Nexus/Nexus Installation with Helm.md",
+    "Sonatype/Nexus/Nexus Fetch Admin Credentials in K8s.md",
+    "Sonatype/Nexus/Sonatype Nexus Repository.md",
+    "Sonatype/Sonatype.md",
+    "Sonatype/Nexus/Nexus Publishing Helm Charts.md",
     "Sonatype/Nexus/Nexus Repository Architecture.md",
     "Neuro Science/Untitled.md",
     "Neuro Science",
     "Sonatype/Nexus/Nexus Self-host Instance.md",
-    "Sonatype/Nexus/Sonatype Nexus Repository.md",
-    "Sonatype/Sonatype.md",
     "AUTHORS.md",
     "Flux/Flux.md",
     "Flux/Flux Sealed Secrets Controller.md",
