@@ -25,7 +25,7 @@ Existem várias alternativas para gerenciar multiplos clusters, mas das duas que
 * Criar uma branch para cada ambiente.
 * Criar overlays no Kustomize, que é uma ferramenta nativa do Kubernetes. Similar ao funcionamento do Helm, mas mais simples e integrado nativamente ao Kubernetes.
 
-## Próximos passos
+## Tópicos
 
 - [Argo Architectural Overview](Argo%20Architectural%20Overview.md)
 - [Argo Minimal Infra](Argo%20Minimal%20Infra.md)

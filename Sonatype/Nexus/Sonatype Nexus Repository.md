@@ -9,4 +9,6 @@ No caso, o **SNR** é um **Repository Manager** que adiciona suporte nativo com 
 - [Nexus Publishing Helm Charts](Nexus%20Publishing%20Helm%20Charts)
 - [Nexus Repository Architecture](Nexus%20Repository%20Architecture)
 - [Nexus Self-host Instance](Nexus%20Self-host%20Instance)
+- [Nexus vs Artifactory](Nexus%20vs%20Artifactory)
+
 

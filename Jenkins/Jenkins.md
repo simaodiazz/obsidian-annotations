@@ -3,6 +3,6 @@ O **Jenkins** é uma ferramenta **CI** e **CD**, apesar de mais utilizada por se
 É uma ferramenta que se torna extremamente poderosa por sua maturidade e comunidade ativa, além que os plugins a tornam uma ferramenta extremamente extensível.
 
 Recursos como **Multitenancy** para gerenciar várias equipas é possível com **Jenkins**, faz gestão em tempo real de como as etapas de montagens de um Pipeline está a ocorrer, além de conseguir fazer automatização de **PR** para branches alternativas do nosso projeto.
-## Próximos passos
+## Tópicos
 
 * [Jenkins Projects](Jenkins%20Projects.md)

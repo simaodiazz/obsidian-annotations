@@ -10,9 +10,12 @@ O ArgoCD é mais imperativo em relação ao FluxCD, ele tenta ser mais declarati
 
 Na minha observação geral, o ArgoCD é uma ferramenta boa para iniciantes e gestão em uma empresa pequena a média escala, o FluxCD é mais específico para este proposito de automatização.
 
-# Próximos Passos
+## Tópicos
 
 * [Flux Simple Commands](Flux%20Simple%20Commands.md)
+* [Flux Bootstrap](Flux%20Bootstrap)
+* [Flux Controllers](Flux%20Controllers)
+* [Flux Operator Pattern](Flux%20Operator%20Pattern)
 * [Flux Ways to structure your repositories](Flux%20Ways%20to%20structure%20your%20repositories.md)
 * [Flux Manage Helm Releases](Flux%20Manage%20Helm%20Releases.md)
 * [Flux Setup Webhook Receivers](Flux%20Setup%20Webhook%20Receivers.md)
@@ -20,7 +23,8 @@ Na minha observação geral, o ArgoCD é uma ferramenta boa para iniciantes e ge
 * [Install SOPS](Install%20SOPS.md)
 * [Flux Sealed Secrets Controller](Flux%20Sealed%20Secrets%20Controller.md)
 * [Flux Difference beetwen use SOPS and Sealed Secrets](Flux%20Difference%20beetwen%20use%20SOPS%20and%20Sealed%20Secrets.md)
-* [Flux Automate image updates to Git](Flux%20Automate%20image%20updates%20to%20Git.md)
+
+
 
 
 
